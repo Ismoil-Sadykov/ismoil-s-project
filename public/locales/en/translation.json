@@ -1,0 +1,160 @@
+{
+  "Header": {
+    "name": "TokarCompany — a manufacturing and construction company",
+    "contact": "Contact directly",
+    "date": "from 9:00 AM to 6:00 PM (Mon-Sun)",
+    "call": "Request a call",
+    "aboutUk": "Free within Ukraine",
+    "category": "Residential",
+    "comersial": "Commercial",
+    "garden": "Garden buildings",
+    "about": "About us",
+    "works": "Our works",
+    "contacts": "Contacts"
+  },
+  "hero": {
+    "title": "We manufacture and install various types of buildings in Ukraine",
+    "subtitle": "We will build a house, restaurant, sauna, gazebo, barbecue area or any other structure tailored to your individual request",
+    "btn_houses": "Go to the house catalog",
+    "btn_baths": "Bathhouse catalog"
+  },
+
+  "why_us": {
+    "title": "Why choose us:",
+    "card1_title": "Exclusive design",
+    "card1_desc": "Unique and unmatched in Ukraine",
+    "card2_title": "Model development",
+    "card2_desc": "Individual 3D visualization in our app",
+    "card3_title": "Quality certificates",
+    "card3_desc": "Confirm our materials and components",
+    "card4_title": "Turnkey work",
+    "card4_desc": "On average, completed in X days from foundation to commissioning"
+  },
+
+  "catalog": {
+    "title": "Project catalog",
+
+    "living_title": "Residential",
+    "living_desc": "Section with houses, cottages, villas, estates and mansions",
+    "btn_more": "View projects",
+
+    "commercial_title": "Commercial",
+    "commercial_desc": "Section with resorts, hotels, restaurants, cafes and shops",
+
+    "garden_title": "Garden",
+    "garden_desc": "Section with saunas, gazebos, pergolas, garages, kitchens, playgrounds and barbecue areas"
+  },
+
+  "composition": {
+    "title": "What our buildings consist of",
+
+    "step1_title": "3D Model Creation",
+    "step1_desc": "This is a visualization of the building through the device screen. The model is created individually for the client. The main task of 3D visualization is to consider all details and show the final look of the project using real materials and proportions.",
+
+    "step2_title": "Measurements and foundation",
+    "step2_desc": "We come to the site, discuss the task, identify the client's needs and take measurements. We build the supporting structure that can withstand loads and weather conditions.",
+
+    "step3_title": "Structure production",
+    "step3_desc": "At one of our 4 plants across Ukraine we manufacture the structure according to the technical specifications agreed with you.",
+
+    "step4_title": "Installation work",
+    "step4_desc": "We perform the full range of work: from foundation construction to roofing. The building will be ready for use upon completion."
+  },
+
+  "call_to_action": {
+    "btn_houses": "Go to the house catalog",
+    "btn_baths": "Bathhouse catalog"
+  },
+
+  "company": {
+    "title": "About the TokarMebel company",
+    "quote_author": "Alexander Nikolaevich Tochilov",
+    "quote_text": "A quote about the company, a few words from the founder.",
+
+    "stat_years": "21 years",
+    "stat_years_desc": "We've been working in Ukraine since 1998",
+
+    "stat_positions": "300+",
+    "stat_positions_desc": "Different types of buildings",
+
+    "stat_humidity": "up to 7%",
+    "stat_humidity_desc": "Dried wood humidity meets GOST standards",
+
+    "stat_delivery": "1.5 times lower",
+    "stat_delivery_desc": "Delivery cost is below market price",
+
+    "btn_more": "Learn more about the company"
+  },
+  "building_types": {
+    "title": "We divide into 3 types of buildings",
+
+    "living_title": "Residential buildings",
+    "living_item1": "Houses made of profiled timber",
+    "living_item2": "Houses made of rounded logs",
+    "living_item3": "Frame houses",
+    "living_item4": "Block houses",
+
+    "commercial_title": "Commercial",
+    "commercial_item1": "Recreation bases",
+    "commercial_item2": "Hotels",
+    "commercial_item3": "Restaurants",
+    "commercial_item4": "Cafes",
+    "commercial_item5": "Shops",
+
+    "garden_title": "Garden & utility buildings",
+    "garden_item1": "Wooden saunas",
+    "garden_item2": "Gazebos",
+    "garden_item3": "Pergolas",
+    "garden_item4": "Children’s playgrounds",
+    "garden_item5": "Garages",
+    "garden_item6": "Wooden playhouses",
+    "garden_item7": "BBQ and grill zones",
+    "garden_item8": "Outdoor kitchens"
+  },
+
+  "articles": {
+    "title": "Latest articles",
+
+    "article1_title": "Ready-made country house or build your own?",
+    "article1_desc": "To buy or build a house from scratch is an inevitable question when choosing private real estate outside the city.",
+
+    "article2_title": "Author house projects – why exclusivity is more profitable",
+    "article2_desc": "The owner has to decide: choose a standard ready-made project or order an individual one.",
+
+    "article3_title": "Beautiful houses: 100+ photos of the best projects",
+    "article3_desc": "Modern low-rise construction in Ukraine is represented by popular standard architectural solutions."
+  },
+
+  "seo_block": {
+    "title": "SEO text heading",
+    "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. In fermentum posuere urna nec. Tincidunt eget nullam non nisi est sit amet facilisis magna. Faucibus vitae aliquet nec ullamcorper sit amet risus.",
+    "text2": "Aliquet nec ullamcorper sit amet risus nullam. Adipiscing elit pellentesque habitant morbi tristique senectus et netus. Commodo viverra maecenas accumsan lacus vel facilisis.",
+    "text3": "Tempor orci eu lobortis elementum nibh tellus molestie nunc non. Enim facilisis gravida neque convallis a."
+  },
+  "footer": {
+    "company_info": "© 2020. All rights reserved. TokarCompany — a manufacturing and construction company. The information presented on the website is not a public offer."
+  },
+  "footer_living": {
+    "item1": "Profiled Timber Houses",
+    "item2": "Rounded Timber Houses",
+    "item3": "Frame Houses",
+    "item4": "Block Houses"
+  },
+  "footer_commercial": {
+    "item1": "Recreation Bases",
+    "item2": "Hotels",
+    "item3": "Restaurants",
+    "item4": "Cafes",
+    "item5": "Shops"
+  },
+  "footer_garden": {
+    "item1": "Wooden Baths",
+    "item2": "Gazebos",
+    "item3": "Pavilions",
+    "item4": "Children's Playgrounds",
+    "item5": "Garages",
+    "item6": "Wooden Playhouses",
+    "item7": "BBQ and Grill Areas",
+    "item8": "Kitchens"
+  }
+}
